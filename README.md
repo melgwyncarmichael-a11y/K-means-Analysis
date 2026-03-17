@@ -1,0 +1,1 @@
+In my latest portfolio project, I applied unsupervised machine learning (K-Means clustering) to the UCI Bank Marketing Dataset to identify key customer segments that banks can target more effectively.
